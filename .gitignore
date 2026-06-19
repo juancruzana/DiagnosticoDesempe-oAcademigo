@@ -1,0 +1,19 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Cache de Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Archivos temporales de Office (lock files)
+~$*
+
+# Configuracion local de herramientas
+.claude/
