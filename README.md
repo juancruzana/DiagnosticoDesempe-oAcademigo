@@ -27,6 +27,7 @@ sirve para análisis exploratorio, modelado predictivo y desarrollo de dashboard
 - **Dominio:** redes sociales, educación, salud mental
 - **Fuente:** [Kaggle — Student Social Media And Mental Health Impact](https://www.kaggle.com/datasets/shivasingh4945/student-social-media-and-mental-health-impact/data)
 - **Archivo:** [Student Social Media And Mental Health Impact.csv](Student%20Social%20Media%20And%20Mental%20Health%20Impact.csv)
+- **Colab:** [Student Social Media And Mental Health Impact.csv](https://colab.research.google.com/drive/17IVnjQRrbHQYyJ3TDFTbzO-o2026l0yW?usp=sharing)
 
 | Grupo | Variables |
 |-------|-----------|
