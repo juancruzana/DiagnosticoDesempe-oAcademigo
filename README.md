@@ -8,6 +8,10 @@ El proyecto cubre el ciclo completo de datos: **ETL** (carga, limpieza y *featur
 engineering*) en [etl.py](etl.py), **visualización** en [plots.py](plots.py) y un
 **dashboard interactivo** en [app.py](app.py) construido con Streamlit.
 
+### Vista previa del dashboard
+
+![Dashboard interactivo en Streamlit](graficos/dashboard_preview.png)
+
 ---
 
 ## Contexto del proyecto
